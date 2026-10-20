@@ -1,4 +1,4 @@
-# WMT - WMT Map Tools
+# WMT Enhanced
 
 Улучшения [оригинального инструментария iEzhuk и Zealot111](https://github.com/iEzhuk/WMT_MapTools) для создания удобных TvT- (и PvE-) миссий от Snowkinger.
 
